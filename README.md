@@ -1,5 +1,6 @@
 liveusb
 controller 이용 다국어 데모 사이트
+
 현) 회원 가입시 이메일 인증 ,로그인, 본인 사진 등록 만 작업 되어짐
 
 laravel 버전
