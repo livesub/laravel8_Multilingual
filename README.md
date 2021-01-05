@@ -15,13 +15,9 @@ laravel 공홈 8 설치 방법 준수
 php artisan migrate
 
 
-composer dump-autoload
-php artisan db:seed
 smtp 설정(gmail 사용을 원할 경우)
 https://medium.com/@agavitalis/how-to-send-an-email-in-laravel-using-gmail-smtp-server-53d962f01a0c
 다른 smtp 설정시 메일 발송 부분 설정 필요
-
-사이트 동작 확인
 
 서버 실행
 php artisan serve
